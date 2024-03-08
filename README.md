@@ -8,7 +8,7 @@
 
 아래 키워드를 학습하고 실습하기 위해 만들었습니다.
 
-알림, SSE, 스케줄링, 비동기 요청 및 예외처리, 멀티 스레드, 스프링배치, ApplicationEventPublisher, HTTPClient, FCM, AWS SES, AWS SNS
+`알림, SSE, 스케줄링, 비동기 요청 및 예외처리, 멀티 스레드, 스프링배치, ApplicationEventPublisher, HTTPClient, FCM, AWS SES, AWS SNS`
 
 </br>
 
