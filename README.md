@@ -28,7 +28,7 @@
 
 </br>
 
-`(spring-boot-starter-mail 와 google stop 서버 기반)`
+`(spring-boot-starter-mail 와 google stmp 서버 기반)`
 - 일주일에 외식을 세번 이상하면 메일로 “부자” 라고 전송한다. 
 
 </br>
